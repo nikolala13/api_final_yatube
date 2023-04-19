@@ -29,8 +29,12 @@ python -m venv venv
 source venv/bin/activate
 ```
 ```sh
-# OS Windows
+# OS Windows GitBash Terminal
 source venv/Scripts/activate
+```
+```sh
+# OS Windows cmd.exe terminal
+C:\> venv\Scripts\activate
 ```
 
 - Install requirements from requirements.txt:
